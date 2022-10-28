@@ -1,0 +1,25 @@
+h1 {
+    border: 2px #aaa solid;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-style: Serif;
+
+}
+
+body {
+    background-color: rgb(205, 92, 92);
+
+}h1 {
+    border: 2px #bbb solid;
+    color:whitesmoke;
+    text-align: center;
+    padding: 10px;
+    font-style: Serif;
+
+}
+
+body {
+    background-color: rgb(250, 128, 114);
+
+}
